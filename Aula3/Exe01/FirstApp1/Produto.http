@@ -1,1 +1,6 @@
-GET http://localhost:5105/api/produto
+GET http://localhost:5105/api/produto/cadastrar
+
+###
+POST http://localhost:5105/api/produto/listar
+###
+GET http://localhost:5105/api/produto/buscar/Celular
